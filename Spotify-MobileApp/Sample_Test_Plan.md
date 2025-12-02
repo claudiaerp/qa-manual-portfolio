@@ -15,70 +15,70 @@ This test plan describes approaches and methodologies that will apply to the fun
 ## 2. Scope
 
 ### In Scope
-    * Search
-        - Search
-        - Play song
-        - Play
-        - Pause
+* Search
+    - Search
+    - Play song
+    - Play
+    - Pause
 
 ### Out of Scope
-    * Sign up
-        - Sign up free
-        - Continue with Google
-        - Continue with Facebook
-    * Login
-        - Credentials
-        - No Credentials
-    * Profile
-        - View profile
-            - Edit
-            - Find Friends
-            - Share
-            - Preview profile
-            - Show Spotify Code
-        - Playlists
-        - What's new
-        - Listening history
-        - Settings and privacy
-    * Home
-        - All
-        - Music
-        - Podcasts & Shows
-            - Playlists
-        - Your Library
-            - Search
-            - Add
-        - Podcasts & Shows
-        - Albums
-        - Recents
-        - Add artists
-        - Add podcasts & shows
-    * Search
-        - Scan
-        - Start Browsing
-    * Play song
-        - Next
-        - Previous
-        - Shuffle
-        - Repeat
-        - Add song to playlist
-        - Remove song from playlist
-        - Undo removing a song from a playlist
-        - Current Device
+* Sign up
+    - Sign up free
+    - Continue with Google
+    - Continue with Facebook
+* Login
+    - Credentials
+    - No Credentials
+* Profile
+    - View profile
+        - Edit
+        - Find Friends
         - Share
-        - Recommended songs
-        - See Lyrics
-        - Add to queue
-        - View album
-        - View artist
-        - Share
-        - Audio Quality
-        - Video Quality
-        - Sleep Timer
-        - Go to song radio
-        - Show credits
-        - About recommendations
+        - Preview profile
         - Show Spotify Code
+    - Playlists
+    - What's new
+    - Listening history
+    - Settings and privacy
+* Home
+    - All
+    - Music
+    - Podcasts & Shows
+        - Playlists
+    - Your Library
+        - Search
+        - Add
+    - Podcasts & Shows
+    - Albums
+    - Recents
+    - Add artists
+    - Add podcasts & shows
+* Search
+    - Scan
+    - Start Browsing
+* Play song
+    - Next
+    - Previous
+    - Shuffle
+    - Repeat
+    - Add song to playlist
+    - Remove song from playlist
+    - Undo removing a song from a playlist
+    - Current Device
+    - Share
+    - Recommended songs
+    - See Lyrics
+    - Add to queue
+    - View album
+    - View artist
+    - Share
+    - Audio Quality
+    - Video Quality
+    - Sleep Timer
+    - Go to song radio
+    - Show credits
+    - About recommendations
+    - Show Spotify Code
 
 ## 3. Quality Objective
 
