@@ -10,8 +10,8 @@ Hi! I'm **Claudia Reyes**, a Manual QA Engineer with 10+ years of experience tes
 
 ## 🔹 Portfolio Contents
 
+- **Test Plans:** [Sample_Test_Plan.md](Spotify-MobileApp/Sample_Test_Plan.md) 
 - **Test Cases:** [Sample_Test_Cases.md](Spotify-MobileApp/Sample_Test_Cases.md)  
-- **Test Plans:** [Sample_Test_Plan.md](Spotify-MobileApp/Sample_Test_Plan.md)  
 - **Bug Reports:** [Sample_Bug_Report_1.md](Spotify-MobileApp/Sample_Bug_Report_1.md)  
 
 ## 🔹 Contact
