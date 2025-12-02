@@ -95,17 +95,9 @@ This test plan describes approaches and methodologies that will apply to the fun
 
 | Role   | Responsabilities  |
 | ------------- | ------------- |
-| Project Manager  | Acts as a primary contact for development and QA team. Responsible for Project schedule and the overall success of the project.  |
-| QA Lead  | Participates in the project plan creation/update process.
-Plans and organizates of the test process for the release. 
-Coordinates with QA analysts/engineers on any issues/problems encountered during testing. 4.Report progress on work assignments to the PM. |
-| QA Analyst  | Understands requirements 
-Prepares test data
-Writes and executes Test cases 
-Organizes RTM 
-Reports and tracks defects
-Retests and performs regression testing 
-Coordinates with QA Lead for any issues or problems encountered during test preparation/execution/defect handling.  |
+| Project Manager  |<ul><li>Acts as a primary contact for development and QA team.</li><li>Responsible for Project schedule and the overall success of the project.</li></ul>|
+| QA Lead  |<ul><li>Participates in the project plan creation/ update process.</li><li>Plans and organizates of the test process for the release.</li><li>Coordinates with QA analysts/engineers on any issues/problems encountered during testing.</li><li>Reports progress on work assignments to the PM.</li></ul>|
+| QA Analyst  | <ul><li>Understands requirements</li><li>Prepares test data</li><li>Writes and executes Test cases</li><li>Organizes RTM</li><li>Reports and tracks defects</li><li>Retests and performs regression testing</li><li>Coordinates with QA Lead for any issues or problems encountered during test preparation/execution/defect handling.</li></ul>|
 
 ## 5. Item Pass and Fail Criteria
 
@@ -180,7 +172,7 @@ Updates Testing: Under the update testing, we test that the application will wor
 
 Bug Severity and priority fields are both very important for categorizing bugs and prioritizing if and when the bugs will be fixed. The bug severity and priority levels will be defined as outlined in the following tables below. Testing will assign a severity level to all bugs. 
 
-| ID | Severity |Description |
+| ID | Severity | Description |
 | ------------- | ------------- |------------- |
 | 1  | Critical | The module crashes or causes nonrecoverable conditions. System crashes, DB corruption, or potential data loss, application hangs, etc. |
 | 2  | Major | Application component unusable due to failure. Bugs cause serious problems such as a lack of functionality, or insufficient error messages that can have a major impact on the user, etc. |
@@ -189,12 +181,11 @@ Bug Severity and priority fields are both very important for categorizing bugs a
 
 The QA Lead, Development Lead and Project Manager will participate in bug review meetings to assign the priority of all currently active bugs. This meeting will be known as “Bug Triage Meetings” it also can be done during “Planning Meetings”.
 
-| ID | Priority  |Description |
+| ID | Priority  | Description |
 | ------------- | ------------- |------------- |
-| 1  | High | This bug must be fixed immediately; the product cannot ship with this bug. |
-| 2  | Medium | 
-The problem should be fixed within the time available. If the bug does not delay the shipping date, then fix it. |
-| 3  | Low | It is not important (at this time) that these bugs be addressed. Fix these bugs after all other bugs have been fixed. |
+| 1 | High | This bug must be fixed immediately; the product cannot ship with this bug. |
+| 2 | Medium | The problem should be fixed within the time available. If the bug does not delay the shipping date, then fix it. |
+| 3 | Low | It is not important (at this time) that these bugs be addressed. Fix these bugs after all other bugs have been fixed. |
 
 ## 10. Test Deliverables
 
@@ -244,11 +235,11 @@ Make a mention of any terms or acronyms used in the project
 
 | Term/Acronym | Definition |
 | ------------- | ------------- |
-| AUT | Application Under Test  |
+| AUT | Application Under Test |
 | RTM | Requirements Traceability Matrix |
 | QA  | Quality Assurance |
 | GUI | Graphical User Interface |
-| UI  | User Interface  |
-| SMS | Short Message Service  |
-| MMS | Multimedia Message Service  |
-| DB  | Database  |
+| UI  | User Interface |
+| SMS | Short Message Service |
+| MMS | Multimedia Message Service |
+| DB  | Database |
